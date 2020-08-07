@@ -1,0 +1,4 @@
+##Questão durante o projeto
+
+O que é unset?
+Necessário rodar unset HOST antes de iniciar o react, conflito com ambiente conda
